@@ -1,0 +1,19 @@
+{
+  "name": "geradorsenhas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nanoid": "^4.0.1",
+    "vite": "^4.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
